@@ -4,13 +4,15 @@
 
 This repository will host the references and assets for SAS Industrial Orientation Program at Department of Statistics, University of Lucknow.
 
+---
 
+[Program Schedule](schedule.md)
+
+---
 
 ### About the Program:
 
 Welcome to the SAS Industry Orientation Program organized by the Department of Statistics at the prestigious University of Lucknow. This program is meticulously designed to provide students with a comprehensive understanding of the diverse career options available in the Pharmaceutical Industry, equipping them with valuable insights into the dynamic field of statistics and data analytics.
-
-
 
 ***Objective of the Program:***
 
@@ -28,8 +30,6 @@ Key Highlights:
 
 By participating in the SAS Industry Orientation Program, students will emerge with a well-rounded skill set, positioning themselves as adept professionals ready to contribute meaningfully to the evolving landscape of statistics in the Pharmaceutical Industry. Join us on this enlightening journey as we empower you to navigate the complexities of the industry and emerge as leaders in the field of statistical analysis and data science.
 
-
-
 #### Important  Links:
 
 - [GitHub](https://github.com/)
@@ -37,8 +37,6 @@ By participating in the SAS Industry Orientation Program, students will emerge w
 - [SAS On-Demand for Academics](https://welcome.oda.sas.com/) 
 
 - [Assets Repository](https://github.com/anantawasthi/DOSLU-SAS-IOP)
-
-
 
 #### Pre-training Work
 
