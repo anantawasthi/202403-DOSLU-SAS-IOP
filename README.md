@@ -6,7 +6,7 @@ This repository will host the references and assets for SAS Industrial Orientati
 
 ---
 
-[Program Schedule](Schedule.md)
+[Program Schedule](Schedule.md) | [Resources]('Resources/')
 
 ---
 
