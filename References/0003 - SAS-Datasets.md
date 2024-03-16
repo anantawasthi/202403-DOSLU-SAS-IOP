@@ -90,8 +90,6 @@ run;
 
 SAS datasets are fundamental components of SAS programming, providing a structured and efficient way to store and manipulate data. They offer flexibility and versatility for performing data analysis and statistical procedures within the SAS environment. Understanding how to create, manipulate, and analyze SAS datasets is essential for effective SAS programming and data analysis.
 
-
-
 ### Naming a SAS Dataset
 
 Naming conventions for SAS datasets help maintain consistency, clarity, and organization within your SAS environment. Here are some rules and best practices for naming SAS datasets:
