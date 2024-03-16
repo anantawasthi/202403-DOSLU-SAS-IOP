@@ -1,12 +1,12 @@
 # SAS Industry Orientation Program, Department of Statistics, University of Lucknow
 
-#### 16-Mar-2024
+#### 16-Mar-2024 to 04-May-2024
 
 This repository will host the references and assets for SAS Industrial Orientation Program at Department of Statistics, University of Lucknow.
 
 ---
 
-[Program Schedule](Schedule) | [Resources](References)
+[Program Schedule](Schedule) | [Resources](References) | [Dataset](Dataset)
 
 ---
 
